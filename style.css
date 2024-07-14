@@ -8,6 +8,7 @@ body{
     display: flex;
     height: 90vh;
     align-items: center;
+    background-image: url("img3.jpg");
     justify-content: space-evenly;
     flex-direction: column;
     background-color: whitesmoke;
@@ -16,4 +17,7 @@ body{
 #tetris{
     background-color: white;
     box-shadow: 0 0 10px 2px lightgrey;
+}
+h2{
+    margin-bottom: 3px;
 }
